@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Ad Site</title>
+    <title>We Do It For You</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <img src="images/logo.png" alt="Logo">
-        <h1>Advertise With Us</h1>
+        <img src="images/logo.png" alt="We Do It For You Logo">
+        <h1>We Do It For You</h1>
         <p>Your one-stop solution for digital promotions</p>
     </header>
 
@@ -25,13 +25,13 @@
 
         <section class="contact">
             <h2>Contact Us</h2>
-            <p>Email: wedoitforyou@yahoo.com.au</p>
-            <p>Phone: +1234567890</p>
+            <p>Email: <a href="mailto:wedoitforyou@example.com">wedoitforyou@example.com</a></p>
+            <p>Phone: <a href="tel:0410919876">0410 919 876</a></p>
         </section>
     </main>
 
     <footer>
-        <p>© 2025 Your Company Name. All rights reserved.</p>
+        <p>© 2025 We Do It For You. All rights reserved.</p>
     </footer>
 </body>
 </html>
