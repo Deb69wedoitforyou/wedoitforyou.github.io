@@ -25,7 +25,7 @@
 
         <section class="contact">
             <h2>Contact Us</h2>
-            <p>Email: yourname@example.com</p>
+            <p>Email: wedoitforyou@yahoo.com.au</p>
             <p>Phone: +1234567890</p>
         </section>
     </main>
